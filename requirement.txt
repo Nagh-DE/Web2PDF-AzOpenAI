@@ -1,0 +1,9 @@
+llama-index
+llama-index-llms-openai
+llama-index-llms-azure-openai
+llama-index-readers-web 
+llama-index-readers-file
+python-dotenv 
+pypandoc
+llama-index-embeddings-azure-openai
+aspose-words
